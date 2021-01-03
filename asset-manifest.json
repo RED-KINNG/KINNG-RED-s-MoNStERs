@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KINNG-RED-s-MoNStERs/static/css/main.a189eaa3.chunk.css",
+    "main.js": "/KINNG-RED-s-MoNStERs/static/js/main.c09cc4e5.chunk.js",
+    "main.js.map": "/KINNG-RED-s-MoNStERs/static/js/main.c09cc4e5.chunk.js.map",
+    "runtime-main.js": "/KINNG-RED-s-MoNStERs/static/js/runtime-main.d615b690.js",
+    "runtime-main.js.map": "/KINNG-RED-s-MoNStERs/static/js/runtime-main.d615b690.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/KINNG-RED-s-MoNStERs/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/KINNG-RED-s-MoNStERs/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/KINNG-RED-s-MoNStERs/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/KINNG-RED-s-MoNStERs/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/KINNG-RED-s-MoNStERs/index.html",
+    "static/css/main.a189eaa3.chunk.css.map": "/KINNG-RED-s-MoNStERs/static/css/main.a189eaa3.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/KINNG-RED-s-MoNStERs/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d615b690.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.a189eaa3.chunk.css",
+    "static/js/main.c09cc4e5.chunk.js"
+  ]
+}
